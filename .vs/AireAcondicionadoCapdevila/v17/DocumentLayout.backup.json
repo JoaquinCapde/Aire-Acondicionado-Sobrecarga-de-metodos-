@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\source\\repos\\AireAcondicionadoCapdevila\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B00C702-6645-4E0F-B9B1-5A3CF6CE4DDD}|AireAcondicionadoCapdevila\\AireAcondicionadoCapdevila.vbproj|c:\\users\\estudiante\\source\\repos\\aireacondicionadocapdevila\\aireacondicionadocapdevila\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4B00C702-6645-4E0F-B9B1-5A3CF6CE4DDD}|AireAcondicionadoCapdevila\\AireAcondicionadoCapdevila.vbproj|solutionrelative:aireacondicionadocapdevila\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B00C702-6645-4E0F-B9B1-5A3CF6CE4DDD}|AireAcondicionadoCapdevila\\AireAcondicionadoCapdevila.vbproj|c:\\users\\estudiante\\source\\repos\\aireacondicionadocapdevila\\aireacondicionadocapdevila\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4B00C702-6645-4E0F-B9B1-5A3CF6CE4DDD}|AireAcondicionadoCapdevila\\AireAcondicionadoCapdevila.vbproj|solutionrelative:aireacondicionadocapdevila\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B00C702-6645-4E0F-B9B1-5A3CF6CE4DDD}|AireAcondicionadoCapdevila\\AireAcondicionadoCapdevila.vbproj|c:\\users\\estudiante\\source\\repos\\aireacondicionadocapdevila\\aireacondicionadocapdevila\\aire.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4B00C702-6645-4E0F-B9B1-5A3CF6CE4DDD}|AireAcondicionadoCapdevila\\AireAcondicionadoCapdevila.vbproj|solutionrelative:aireacondicionadocapdevila\\aire.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\AireAcondicionadoCapdevila\\AireAcondicionadoCapdevila\\Form1.vb",
+              "RelativeDocumentMoniker": "AireAcondicionadoCapdevila\\Form1.vb",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\AireAcondicionadoCapdevila\\AireAcondicionadoCapdevila\\Form1.vb",
+              "RelativeToolTip": "AireAcondicionadoCapdevila\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-17T02:31:28.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aire.vb",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\AireAcondicionadoCapdevila\\AireAcondicionadoCapdevila\\Aire.vb",
+              "RelativeDocumentMoniker": "AireAcondicionadoCapdevila\\Aire.vb",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\AireAcondicionadoCapdevila\\AireAcondicionadoCapdevila\\Aire.vb",
+              "RelativeToolTip": "AireAcondicionadoCapdevila\\Aire.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T05:36:28.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\AireAcondicionadoCapdevila\\AireAcondicionadoCapdevila\\Form1.vb",
+              "RelativeDocumentMoniker": "AireAcondicionadoCapdevila\\Form1.vb",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\AireAcondicionadoCapdevila\\AireAcondicionadoCapdevila\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "AireAcondicionadoCapdevila\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T05:35:22.422Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

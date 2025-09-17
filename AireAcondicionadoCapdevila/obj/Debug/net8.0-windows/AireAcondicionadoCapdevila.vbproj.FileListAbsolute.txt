@@ -1,0 +1,16 @@
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\bin\Debug\net8.0-windows\AireAcondicionadoCapdevila.exe
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\bin\Debug\net8.0-windows\AireAcondicionadoCapdevila.deps.json
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\bin\Debug\net8.0-windows\AireAcondicionadoCapdevila.runtimeconfig.json
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\bin\Debug\net8.0-windows\AireAcondicionadoCapdevila.dll
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\bin\Debug\net8.0-windows\AireAcondicionadoCapdevila.pdb
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\obj\Debug\net8.0-windows\AireAcondicionadoCapdevila.Form1.resources
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\obj\Debug\net8.0-windows\AireAcondicionadoCapdevila.vbproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\obj\Debug\net8.0-windows\AireAcondicionadoCapdevila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\obj\Debug\net8.0-windows\AireAcondicionadoCapdevila.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\obj\Debug\net8.0-windows\AireAcondicionadoCapdevila.AssemblyInfo.vb
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\obj\Debug\net8.0-windows\AireAcondicionadoCapdevila.vbproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\obj\Debug\net8.0-windows\AireAcondicionadoCapdevila.dll
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\obj\Debug\net8.0-windows\refint\AireAcondicionadoCapdevila.dll
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\obj\Debug\net8.0-windows\AireAcondicionadoCapdevila.pdb
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\obj\Debug\net8.0-windows\AireAcondicionadoCapdevila.genruntimeconfig.cache
+C:\Users\Estudiante\source\repos\AireAcondicionadoCapdevila\AireAcondicionadoCapdevila\obj\Debug\net8.0-windows\ref\AireAcondicionadoCapdevila.dll
